@@ -1,4 +1,4 @@
-# Kubernetes-troubleshoots
+# Deployment strategy
 # why do you need this?
 
 Let's you are working in e-commerce you have a service called as a ``Payment``. V1 of this Payment have 4 replicas, Basically 4 copies of version 1 are deployed as a deployment on Kubernetes Cluster. 
